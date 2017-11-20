@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f204cc1-4405-47ab-b6be-6538b4f49793" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Snippets.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/Configurable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/SnippetHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/SnippetPlugin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/SnippetProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/bitbucket/BitBucketConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/gitlab/GitlabConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/openactive/snippet/swing/Bag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -309,12 +297,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511220214363</updated>
-      <workItem from="1511220217718" duration="1749000" />
+      <workItem from="1511220217718" duration="1911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1749000" />
+    <option name="totallyTimeSpent" value="1911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="25" width="1922" height="1056" extended-state="6" />
